@@ -14,5 +14,7 @@
 		var pase_completo = document.getElementById('pase_completo');
 
 		var calcular = document.getElementById('error');
+
+		primerisimo
 	});
 })();
